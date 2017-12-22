@@ -1,2 +1,5 @@
-*.class
-*.log
+*.sbt
+.idea/
+project/
+target/
+scalastyle/
