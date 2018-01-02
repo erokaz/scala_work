@@ -1,0 +1,5 @@
+assignment.sbt
+.idea/
+project/
+target/
+scalastyle/
